@@ -18,7 +18,7 @@
 
 void bdura2_ephan3(){
   printf("Braulio Duran and Emily Phan\n");
-  printf("GitHub/git makes it easier for programmers to collaborate with each other on the same code.\n");
+  printf("GitHub/git makes it easier for programmers to collaborate with each other on the same code\n");
 }
 
 void reed_ekidan2() {
